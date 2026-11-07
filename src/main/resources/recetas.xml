@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogo>
+    <recetas>
+        <receta>
+            <id>1</id>
+            <nombre>Croquetas</nombre>
+            <tiempoPreparacion>120</tiempoPreparacion>
+            <ingredientes>Huevo, bechamel, pan rallado</ingredientes>
+        </receta>
+        <receta>
+            <id>2</id>
+            <nombre>Ensalada César</nombre>
+            <tiempoPreparacion>20</tiempoPreparacion>
+            <ingredientes>Lechuga, tomate, pollo, cebolla, salsa</ingredientes>
+        </receta>
+    </recetas>
+</catalogo>
